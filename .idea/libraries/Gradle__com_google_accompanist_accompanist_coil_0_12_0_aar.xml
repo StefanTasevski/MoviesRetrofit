@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.accompanist:accompanist-coil:0.12.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1daf6a3aa308a0c224f19812301fd275/jetified-accompanist-coil-0.12.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/79f5c184b4dee1546bf8cfabed9fc5b0/jetified-accompanist-coil-0.12.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/79f5c184b4dee1546bf8cfabed9fc5b0/jetified-accompanist-coil-0.12.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/79f5c184b4dee1546bf8cfabed9fc5b0/jetified-accompanist-coil-0.12.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.accompanist/accompanist-coil/0.12.0/ec4bd0845ea5eb8d5355b77430792f16485cee16/accompanist-coil-0.12.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.accompanist/accompanist-coil/0.12.0/b0f84d2a91cf2c701435c3ddcd7d62af11152855/accompanist-coil-0.12.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

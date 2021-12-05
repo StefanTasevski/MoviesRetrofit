@@ -1,0 +1,2 @@
+com/tasevski/movies/BuildConfig.java
+ com.tasevski.movies.BuildConfig

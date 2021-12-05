@@ -1,0 +1,2 @@
+com/jetpack/composepagination/BuildConfig.java
+ com.jetpack.composepagination.BuildConfig

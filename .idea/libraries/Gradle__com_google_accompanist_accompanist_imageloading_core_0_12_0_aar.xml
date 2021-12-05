@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.accompanist:accompanist-imageloading-core:0.12.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8f45ac7a56dc053e4f4d0b15baa610e6/jetified-accompanist-imageloading-core-0.12.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9ee5069d05c7b674f5494f9f6c5b9593/jetified-accompanist-imageloading-core-0.12.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9ee5069d05c7b674f5494f9f6c5b9593/jetified-accompanist-imageloading-core-0.12.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9ee5069d05c7b674f5494f9f6c5b9593/jetified-accompanist-imageloading-core-0.12.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.accompanist/accompanist-imageloading-core/0.12.0/241ffedea5d779ff574d90bbc736c1ac3c29887c/accompanist-imageloading-core-0.12.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.accompanist/accompanist-imageloading-core/0.12.0/a490af6f6a72a283d9e712288225b0063d597153/accompanist-imageloading-core-0.12.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
